@@ -1,0 +1,3 @@
+/home/oscar/workspace/raspi-alarm/CMakeFiles/rebuild_cache.dir
+/home/oscar/workspace/raspi-alarm/CMakeFiles/edit_cache.dir
+/home/oscar/workspace/raspi-alarm/CMakeFiles/temp.dir
